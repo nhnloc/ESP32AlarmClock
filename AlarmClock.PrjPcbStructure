@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=1_Power_Supply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1_Power_Supply.SchDoc|FileName=2_DS3231.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_Power_Supply.SchDoc|FileName=3_IO_Module.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1_Power_Supply.SchDoc|FileName=4_MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=1_Power_Supply.SchDoc|FileName=5_LCD.SchDoc|SheetNumber=5
